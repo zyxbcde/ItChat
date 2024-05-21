@@ -21,10 +21,10 @@ setup(
     description='A complete wechat personal account api',
     long_description=long_description,
 
-    url='https://github.com/littlecodersh/ItChat',
+    url='https://github.com/zyxbcde/ItChat',
 
     author='LittleCoder',
-    author_email='i7meavnktqegm1b@qq.com',
+    author_email='zyx1006@163.com',
 
     license='MIT',
 
