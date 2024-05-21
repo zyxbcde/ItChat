@@ -6,7 +6,6 @@ https://github.com/littlecodersh/ItChat
 from setuptools import setup, find_packages
 from codecs import open
 from os import path
-import itchat
 
 here = path.abspath(path.dirname(__file__))
 
@@ -16,7 +15,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 setup(
     name='itchat',
 
-    version=itchat.__version__,
+    version=0.01,
 
     description='A complete wechat personal account api',
     long_description=long_description,
